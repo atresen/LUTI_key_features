@@ -1,0 +1,7 @@
+uorfpos	pct
+First	78.125
+Second	78.125
+First Two	68.75
+Penultimate	9.375
+Last	20.3125
+Last Two	4.6875
